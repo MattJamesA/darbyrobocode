@@ -1,9 +1,9 @@
 Results for 10 rounds
 Robot Name                               Total Score      Survival  Surv Bonus  Bullet Dmg  Bullet Bonus  Ram Dmg * 2  Ram Bonus   1sts    2nds    3rds 
-1st: sample.Walls                    7479 (36%)           3000      600         3368        477           34           0          10      0       0
-2nd: sample.Fire                     2954 (14%)           1750      0           1139        60            5            0          0       0       7
-3rd: sample.MyFirstRobot             2922 (14%)           2050      0           817         44            11           0          0       6       2
-4th: io.github.jacobsims.AimingBot*  2802 (14%)           1250      0           1391        147           13           0          0       1       1
-5th: io.github.enzanki_ars.DemoBot*  2455 (12%)           1600      0           819         19            17           0          0       3       0
-6th: sample.Corners                  1754 (9%)            650       0           1062        39            2            0          0       0       0
-7th: sample.SittingDuck              200 (1%)             200       0           0           0             0            0          0       0       0
+1st: sample.Walls                    6721 (32%)           2700      540         2962        489           30           0          9       0       0
+2nd: io.github.jacobsims.AimingBot*  3493 (17%)           1500      0           1843        141           10           0          0       4       0
+3rd: sample.MyFirstRobot             3098 (15%)           1950      60          1017        46            8            17         1       4       3
+4th: sample.Fire                     2893 (14%)           1600      0           1213        75            5            0          0       0       5
+5th: sample.Corners                  2368 (11%)           1000      0           1260        105           2            0          0       0       1
+6th: io.github.enzanki_ars.DemoBot*  1646 (8%)            1100      0           524         19            2            0          0       2       1
+7th: sample.SittingDuck              650 (3%)             650       0           0           0             0            0          0       0       0
