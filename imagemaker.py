@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import os
 
 template = '''<?xml version="1.0"?>
 <svg width="{width}" height="130" viewBox="0 0 {width} 130" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
