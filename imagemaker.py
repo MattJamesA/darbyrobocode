@@ -80,7 +80,7 @@ ms5sZ6MjI35Q6Qcq8/JGmQuXle3GaWqeNvrhj8PDV2Aajcpv3O48rOODxnNSmOdv
 1gABMMva2Wg0Goaj3bdISHOIxaaImqUxzQtzCQt/I5Fh9QkG5yKktltG0B+nK2kv
 tjjIngMSEyWSVuK9qGgVIop+zZ5oSf87Pt4Jm79p6fCo6+mD/geWEFucl4+hOgAA
 AABJRU5ErkJggg==
-'''
+'''.replace('\n', '')
 
 template = '''<?xml version="1.0"?>
 <svg width="{outerwidth}" height="205" viewBox="0 0 {outerwidth} 205" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
