@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import os
+import pip
 
 datauri = '''data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xh
@@ -115,7 +116,7 @@ innerwidth = max(440, 63 + int(max(len(winner), len(second), len(third)) * 11.7)
 outerwidth = innerwidth + 68
 imagex = outerwidth - 48 - 5
 
-print template.format(datauri=datauri,
+out = template.format(datauri=datauri,
                       innerwidth=innerwidth,
                       outerwidth=outerwidth,
                       winner=winner,
@@ -123,3 +124,15 @@ print template.format(datauri=datauri,
                       third=third,
                       imagex=imagex,
                       battlenum=os.environ['CIRCLE_BUILD_NUM'])
+                      
+print out
+
+pip.main(['install', 'cairosvg'])
+
+import cairosvg
+
+fout = open('battlegraphic.png', 'w')
+vairosgv.svg2png(bytestring=out,write_to=fout)
+
+fout.close()
+
