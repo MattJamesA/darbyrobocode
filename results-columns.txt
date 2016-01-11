@@ -1,10 +1,10 @@
-Darby Robocode Battle number 69 (from commit c591eca52ee38c1a3c5c74d6fd79e5ebcd2d5628)
+Darby Robocode Battle number 73 (from commit 1584694eb07c20fc9964fde19e12d284bf2b6551)
 Results for 10 rounds
 Robot Name                                     Total Score      Survival  Surv Bonus  Bullet Dmg  Bullet Bonus  Ram Dmg * 2  Ram Bonus   1sts    2nds    3rds 
-1st: sample.Walls                          5743 (29%)           2850      480         2126        272           16           0          8       1       1
-2nd: io.github.enzanki_ars.AlexSimpleBot*  4652 (23%)           2100      60          2113        144           235          0          1       5       2
-3rd: io.github.jacobsims.AimingBot*        3415 (17%)           1650      60          1580        122           4            0          1       1       3
-4th: sample.MyFirstRobot                   2249 (11%)           1650      0           583         11            5            0          0       2       2
-5th: sample.Fire                           2010 (10%)           1400      0           596         11            4            0          0       1       2
-6th: sample.Corners                        1536 (8%)            650       0           840         45            1            0          0       0       0
-7th: sample.SittingDuck                    200 (1%)             200       0           0           0             0            0          0       0       0
+1st: sample.Walls                          5985 (29%)           2750      480         2433        292           30           0          8       1       0
+2nd: io.github.enzanki_ars.AlexSimpleBot*  4224 (21%)           1750      60          2047        147           194          25         1       3       0
+3rd: io.github.jacobsims.AimingBot*        3274 (16%)           1500      0           1674        91            8            0          0       1       3
+4th: sample.Fire                           2809 (14%)           1900      60          792         55            2            0          1       2       4
+5th: sample.MyFirstRobot                   2038 (10%)           1550      0           474         10            4            0          0       3       1
+6th: sample.Corners                        2025 (10%)           950       0           1023        51            0            0          0       0       2
+7th: sample.SittingDuck                    100 (0%)             100       0           0           0             0            0          0       0       0
