@@ -1,10 +1,10 @@
-Darby Robocode Battle number 73 (from commit 1584694eb07c20fc9964fde19e12d284bf2b6551)
+Darby Robocode Battle number 87 (from commit d93244cb9cbd4edacc3cdfbd7517ee9138838aeb)
 Results for 10 rounds
 Robot Name                                     Total Score      Survival  Surv Bonus  Bullet Dmg  Bullet Bonus  Ram Dmg * 2  Ram Bonus   1sts    2nds    3rds 
-1st: sample.Walls                          5985 (29%)           2750      480         2433        292           30           0          8       1       0
-2nd: io.github.enzanki_ars.AlexSimpleBot*  4224 (21%)           1750      60          2047        147           194          25         1       3       0
-3rd: io.github.jacobsims.AimingBot*        3274 (16%)           1500      0           1674        91            8            0          0       1       3
-4th: sample.Fire                           2809 (14%)           1900      60          792         55            2            0          1       2       4
-5th: sample.MyFirstRobot                   2038 (10%)           1550      0           474         10            4            0          0       3       1
-6th: sample.Corners                        2025 (10%)           950       0           1023        51            0            0          0       0       2
-7th: sample.SittingDuck                    100 (0%)             100       0           0           0             0            0          0       0       0
+1st: sample.Walls                          5292 (26%)           2500      420         2074        276           22           0          7       1       0
+2nd: io.github.jacobsims.AimingBot*        3925 (19%)           1850      60          1840        162           13           0          1       2       4
+3rd: io.github.enzanki_ars.AlexSimpleBot*  3326 (17%)           1550      0           1556        116           104          0          0       3       1
+4th: sample.MyFirstRobot                   3067 (15%)           1950      120         908         76            13           0          2       2       2
+5th: sample.Fire                           2526 (13%)           1550      0           953         20            2            0          0       2       3
+6th: sample.Corners                        1556 (8%)            650       0           851         52            2            0          0       0       0
+7th: sample.SittingDuck                    450 (2%)             450       0           0           0             0            0          0       0       0
