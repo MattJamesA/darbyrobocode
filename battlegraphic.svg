@@ -1,8 +1,12 @@
 <?xml version="1.0"?>
-<svg width="440" height="105" viewBox="0 0 440 105" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <rect x="0" y="0" rx="5" ry="5" width="440" height="105" style="fill: #333333" />
-    <text x="15" y="35" font-family="Courier, monospace" font-size="27" fill="#ffffff">Darby Robocode Battle 69</text>
+<svg width="484" height="205" viewBox="0 0 484 205" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rect x="0" y="0" rx="5" ry="5" width="484" height="205" style="fill: #333333" />
+    <text x="15" y="35" font-family="Courier, monospace" font-size="27" fill="#ffffff">Darby Robocode Battle 73</text>
     <text x="15" y="60" font-family="Courier, monospace" font-size="15" fill="#aaaaaa">Won by:</text>
     <text x="25" y="85" font-family="Courier, monospace" font-size="20" fill="#ffffff">sample.Walls</text>
+    <text x="15" y="110" font-family="Courier, monospace" font-size="15" fill="#aaaaaa">2nd:</text>
+    <text x="25" y="135" font-family="Courier, monospace" font-size="20" fill="#ffffff">io.github.enzanki_ars.AlexSimpleBot*</text>
+    <text x="15" y="160" font-family="Courier, monospace" font-size="15" fill="#aaaaaa">3rd:</text>
+    <text x="25" y="185" font-family="Courier, monospace" font-size="20" fill="#ffffff">io.github.jacobsims.AimingBot*</text>
 </svg>
 
