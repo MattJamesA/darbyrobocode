@@ -99,7 +99,7 @@ template = '''<?xml version="1.0"?>
 </svg>
 '''
 
-with open('results-columns.txt', 'r') as f:
+with open('battles/results-columns.txt', 'r') as f:
     leaderboardLines = str(f.read()).splitlines()
 
 winner = '[error finding winner]'
