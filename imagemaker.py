@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import os
 import pip
+import cairosvg
 
 datauri = '''data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xh
@@ -126,10 +127,6 @@ out = template.format(datauri=datauri,
                       battlenum=os.environ['CIRCLE_BUILD_NUM'])
                       
 print out
-
-pip.main(['install', 'cairosvg'])
-
-import cairosvg
 
 fout = open('battlegraphic.png', 'w')
 vairosgv.svg2png(bytestring=out,write_to=fout)
