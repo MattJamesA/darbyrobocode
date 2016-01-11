@@ -129,7 +129,7 @@ out = template.format(datauri=datauri,
 print out
 
 fout = open('battlegraphic.png', 'w')
-vairosgv.svg2png(bytestring=out,write_to=fout)
+cairosgv.svg2png(bytestring=out,write_to=fout)
 
 fout.close()
 
