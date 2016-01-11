@@ -128,8 +128,8 @@ out = template.format(datauri=datauri,
                       
 print out
 
-fout = open('battlegraphic.png', 'w')
-cairosgv.svg2png(bytestring=out,write_to=fout)
+fout = open('battlegraphic.png', 'wb')
+cairosvg.svg2png(bytestring=out.encode('utf-8'),write_to=fout)
 
 fout.close()
 
