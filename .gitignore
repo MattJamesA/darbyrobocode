@@ -84,11 +84,14 @@ config*
 desktop*
 javadoc*
 libs*
+license/*
 meleerumble*
 net*
 robocode/*
 robots/sample*
+robots/robot.database
 roborumble*
+robocode*
 teamrumble*
 templates*
 theme*
