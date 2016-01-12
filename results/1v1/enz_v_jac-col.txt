@@ -1,5 +1,3 @@
-Darby Robocode Battle number 170 (from commit 5eb2149c80e845ad794e83fdf5ef993a611c81ce)
+Darby Robocode Battle number 176 (from commit 8d59f3844ff3486bf1ec0eacc40bad28c9cc5796)
 Results for 10 rounds
-Robot Name                                     Total Score      Survival  Surv Bonus  Bullet Dmg  Bullet Bonus  Ram Dmg * 2  Ram Bonus   1sts    2nds    3rds 
-1st: io.github.enzanki_ars.AlexSimpleBot*  1468 (62%)           300       60          904         126           78           0          6       4       0
-2nd: io.github.jacobsims.AimingBot*        906 (38%)            200       40          583         78            5            0          4       6       0
+Robot Name                 Total Score      Survival  Surv Bonus  Bullet Dmg  Bullet Bonus  Ram Dmg * 2  Ram Bonus   1sts    2nds    3rds 
