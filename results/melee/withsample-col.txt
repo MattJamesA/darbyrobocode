@@ -1,11 +1,14 @@
-Darby Robocode Battle number 176 (from commit 8d59f3844ff3486bf1ec0eacc40bad28c9cc5796)
+Darby Robocode Battle
+melee/withsample #181
 Results for 20 rounds
-Robot Name                    Total Score      Survival  Surv Bonus  Bullet Dmg  Bullet Bonus  Ram Dmg * 2  Ram Bonus   1sts    2nds    3rds 
-1st: sample.Walls         12151 (25%)          6300      1120        4128        508           89           6          16      2       0
-2nd: sample.RamFire       6952 (14%)           2800      0           2776        102           944          329        0       5       0
-3rd: sample.TrackFire     6537 (13%)           2850      140         3153        394           0            0          2       1       1
-4th: sample.Fire          6129 (13%)           3800      0           2192        100           17           20         0       3       6
-5th: sample.Crazy         5932 (12%)           4350      70          1329        40            143          0          1       3       9
-6th: sample.MyFirstRobot  4994 (10%)           3700      70          1157        28            40           0          1       5       2
-7th: sample.Corners       3907 (8%)            2050      0           1742        108           7            0          0       1       1
-8th: sample.Target        2168 (4%)            2150      0           0           0             18           0          0       0       1
+Robot Name	    Total Score    	Survival	Surv Bonus	Bullet Dmg	Bullet Bonus	Ram Dmg * 2	Ram Bonus	 1sts 	 2nds 	 3rds 	
+1st: sample.Walls	11284 (23%)	5550	1050	4071	483	126	4	15	0	0	
+2nd: sample.RamFire	7282 (15%)	3000	0	2785	101	1008	388	0	2	4	
+3rd: sample.Crazy	6722 (14%)	5000	70	1479	33	139	0	1	10	5	
+4th: sample.TrackFire	6252 (13%)	2650	140	3113	349	0	0	2	3	2	
+5th: sample.Fire	5476 (11%)	3250	70	2067	75	13	0	1	0	1	
+6th: sample.MyFirstRobot	4858 (10%)	3600	0	1163	54	41	0	0	4	5	
+7th: sample.Corners	4234 (9%)	2200	70	1827	133	4	0	1	1	1	
+8th: sample.Target	2714 (6%)	2700	0	0	0	14	0	0	0	2	
+
+commit 60da070e452b59f7494d467a1becf831e5db54a1
