@@ -1,13 +1,13 @@
-Darby Robocode Battle number 165 (from commit 8b09ba0a597c30b4b7da6f0d2327b0d8074a5401)
+Darby Robocode Battle number 170 (from commit 5eb2149c80e845ad794e83fdf5ef993a611c81ce)
 Results for 20 rounds
 Robot Name                                     Total Score      Survival  Surv Bonus  Bullet Dmg  Bullet Bonus  Ram Dmg * 2  Ram Bonus   1sts    2nds    3rds 
-1st: sample.Walls                          15384 (21%)          8550      1620        4575        565           71           3          18      1       0
-2nd: io.github.enzanki_ars.AlexSimpleBot*  8262 (11%)           4250      90          3017        131           665          109        1       5       3
-3rd: sample.TrackFire                      7760 (11%)           4000      0           3410        350           0            0          0       0       3
-4th: sample.MyFirstRobot                   7398 (10%)           6000      0           1317        43            38           0          0       5       5
-5th: io.github.jacobsims.AimingBot*        7180 (10%)           3800      90          3041        222           28           0          1       3       2
-6th: sample.Crazy                          6752 (9%)            5400      0           1170        24            156          2          0       4       4
-7th: sample.Fire                           6500 (9%)            4500      0           1897        92            12           0          0       2       2
-8th: sample.RamFire                        5535 (8%)            2400      0           2154        3             754          224        0       0       1
-9th: sample.Corners                        4839 (7%)            2950      0           1772        114           2            0          0       0       0
-10th: sample.Target                        3174 (4%)            3150      0           0           0             24           0          0       0       0
+1st: sample.Walls                          14022 (19%)          7950      1440        4040        513           78           0          16      1       0
+2nd: io.github.jacobsims.AimingBot*        8978 (12%)           5250      0           3387        297           40           5          0       4       4
+3rd: io.github.enzanki_ars.AlexSimpleBot*  8309 (11%)           4500      90          3052        188           454          25         1       5       2
+4th: sample.RamFire                        7441 (10%)           3300      0           2755        36            947          403        0       1       1
+5th: sample.Crazy                          7054 (10%)           5700      90          1118        16            130          0          1       4       3
+6th: sample.TrackFire                      6892 (9%)            3550      0           2985        357           0            0          0       2       1
+7th: sample.MyFirstRobot                   6578 (9%)            5250      180         1082        23            43           0          2       3       2
+8th: sample.Fire                           6365 (9%)            4200      0           2046        94            25           0          0       0       6
+9th: sample.Corners                        4966 (7%)            2950      0           1940        70            6            0          0       0       1
+10th: sample.Target                        2322 (3%)            2300      0           0           0             22           0          0       0       0
