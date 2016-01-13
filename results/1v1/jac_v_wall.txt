@@ -1,4 +1,4 @@
 Results for 10 rounds
 Robot Name	    Total Score    	Survival	Surv Bonus	Bullet Dmg	Bullet Bonus	Ram Dmg * 2	Ram Bonus	 1sts 	 2nds 	 3rds 	
-1st: sample.Walls	1973 (69%)	450	90	1211	215	7	0	9	1	0	
-2nd: io.github.jacobsims.AimingBot*	907 (31%)	50	10	816	29	2	0	1	9	0	
+1st: sample.Walls	1461 (59%)	300	60	966	127	7	0	6	4	0	
+2nd: io.github.jacobsims.AimingBot*	1030 (41%)	200	40	698	93	0	0	4	6	0	
