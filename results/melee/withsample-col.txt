@@ -1,16 +1,16 @@
 Darby Robocode Battle
-melee/withsample #213
+melee/withsample #217
 Results for 20 rounds
 Robot Name	    Total Score    	Survival	Surv Bonus	Bullet Dmg	Bullet Bonus	Ram Dmg * 2	Ram Bonus	 1sts 	 2nds 	 3rds 	
-1st: sample.Walls	13398 (18%)	7550	1350	4007	433	58	0	15	1	0	
-2nd: sample.TrackFire	8057 (11%)	4200	0	3504	353	0	0	0	3	1	
-3rd: io.github.jacobsims.AimingBot*	8025 (11%)	4450	90	3204	257	24	0	1	3	2	
-4th: sample.Crazy	7824 (11%)	6150	90	1410	19	154	0	1	5	6	
-5th: io.github.enzanki_ars.AlexSimpleBot*	7663 (10%)	4050	0	3029	160	425	0	0	2	4	
-6th: sample.Fire	7645 (10%)	5300	0	2173	161	11	0	0	5	1	
-7th: sample.RamFire	7397 (10%)	3100	90	2794	101	932	380	1	0	2	
-8th: sample.Corners	5910 (8%)	3950	90	1775	90	5	0	1	0	3	
-9th: sample.MyFirstRobot	4673 (6%)	3750	90	781	18	34	0	1	1	0	
-10th: sample.Target	2464 (3%)	2450	0	0	0	14	0	0	0	1	
+1st: sample.Walls	15233 (21%)	8400	1440	4693	634	66	0	16	1	0	
+2nd: sample.Crazy	8387 (12%)	6600	0	1592	34	161	0	0	9	6	
+3rd: io.github.enzanki_ars.AlexSimpleBot*	7413 (10%)	3950	90	2860	135	378	0	1	0	3	
+4th: sample.MyFirstRobot	7247 (10%)	5700	180	1301	34	31	0	2	3	4	
+5th: sample.RamFire	6967 (10%)	2900	0	2665	65	982	355	0	2	0	
+6th: sample.TrackFire	6434 (9%)	3000	0	3091	343	0	0	0	1	1	
+7th: sample.Fire	6332 (9%)	4450	0	1802	69	12	0	0	0	5	
+8th: io.github.jacobsims.AimingBot*	6155 (9%)	3550	90	2327	174	13	0	1	4	0	
+9th: sample.Corners	4471 (6%)	2700	0	1662	106	4	0	0	0	0	
+10th: sample.Target	3710 (5%)	3700	0	0	0	10	0	0	0	1	
 
 commit 344ac74bebf32df5f2cfc60c5cdc46b0cf36c43e
