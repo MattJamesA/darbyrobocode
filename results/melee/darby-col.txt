@@ -1,8 +1,8 @@
 Darby Robocode Battle
-melee/darby #222
+melee/darby #228
 Results for 20 rounds
 Robot Name	    Total Score    	Survival	Surv Bonus	Bullet Dmg	Bullet Bonus	Ram Dmg * 2	Ram Bonus	 1sts 	 2nds 	 3rds 	
-1st: io.github.enzanki_ars.AlexSimpleBot*	2604 (52%)	400	80	1801	140	149	34	8	12	0	
-2nd: io.github.jacobsims.AimingBot*	2358 (48%)	600	120	1395	202	8	33	12	8	0	
+1st: io.github.enzanki_ars.AlexSimpleBot*	2998 (57%)	500	100	1848	201	306	43	10	10	0	
+2nd: io.github.jacobsims.AimingBot*	2253 (43%)	500	100	1464	178	11	0	10	10	0	
 
-commit d6803399729250838e54530829793fd57557b1f9
+commit d6dd2a299198f6aec7a2c87b9dc41bba5e355ac4
