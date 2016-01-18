@@ -1,12 +1,12 @@
 Results for 20 rounds
 Robot Name	    Total Score    	Survival	Surv Bonus	Bullet Dmg	Bullet Bonus	Ram Dmg * 2	Ram Bonus	 1sts 	 2nds 	 3rds 	
-1st: sample.Walls	11734 (16%)	7050	810	3476	321	67	9	10	3	2	
-2nd: sample.RamFire	8584 (12%)	4400	0	2782	84	930	388	0	2	3	
-3rd: io.github.jacobsims.AimingBot*	8247 (12%)	4100	360	2223	162	1315	88	5	2	1	
-4th: sample.TrackFire	7798 (11%)	4000	180	3245	374	0	0	2	1	3	
-5th: sample.Crazy	7318 (10%)	6100	0	1049	19	150	0	0	4	7	
-6th: io.github.enzanki_ars.AlexSimpleBot*	7227 (10%)	3850	90	2620	91	575	0	1	2	2	
-7th: sample.Fire	7047 (10%)	4650	180	2057	146	14	0	2	1	0	
-8th: sample.MyFirstRobot	5349 (7%)	4400	0	892	18	38	0	0	3	2	
-9th: sample.Corners	4658 (7%)	3100	0	1501	48	8	0	0	1	0	
-10th: sample.Target	3412 (5%)	3300	90	0	0	22	0	1	0	0	
+1st: sample.Walls	11547 (16%)	6950	720	3438	332	107	0	10	3	1	
+2nd: io.github.jacobsims.AimingBot*	9564 (13%)	4900	450	2749	198	1237	30	7	2	1	
+3rd: sample.TrackFire	7516 (11%)	3850	0	3337	330	0	0	0	2	1	
+4th: sample.MyFirstRobot	7421 (10%)	5650	450	1213	81	28	0	5	2	3	
+5th: io.github.enzanki_ars.AlexSimpleBot*	7229 (10%)	4100	0	2522	129	432	46	0	2	3	
+6th: sample.Crazy	7127 (10%)	5800	0	1126	29	172	0	0	4	5	
+7th: sample.Fire	6595 (9%)	4500	0	1954	125	16	0	0	2	2	
+8th: sample.RamFire	5617 (8%)	2300	0	2290	37	758	232	0	0	1	
+9th: sample.Corners	5174 (7%)	3500	0	1562	105	7	0	0	1	2	
+10th: sample.Target	3373 (5%)	3350	0	0	0	23	0	0	0	1	
