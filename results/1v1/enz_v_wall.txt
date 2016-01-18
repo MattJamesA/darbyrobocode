@@ -1,4 +1,4 @@
 Results for 10 rounds
 Robot Name	    Total Score    	Survival	Surv Bonus	Bullet Dmg	Bullet Bonus	Ram Dmg * 2	Ram Bonus	 1sts 	 2nds 	 3rds 	
-1st: sample.Walls	871 (72%)	450	90	278	44	10	0	9	1	0	
-2nd: io.github.enzanki_ars.AlexSimpleBot*	343 (28%)	50	10	205	24	54	0	1	9	0	
+1st: sample.Walls	887 (71%)	450	90	297	47	2	0	9	1	0	
+2nd: io.github.enzanki_ars.AlexSimpleBot*	354 (29%)	50	10	232	24	37	0	1	9	0	
